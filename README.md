@@ -2,6 +2,8 @@
 
 This repository contains the research and implementation details of **QESM** (Quantum-Enhanced Machine Learning Emulation Framework), a novel approach to enhance climate and Earth system modeling through quantum computing techniques. The QESM framework integrates advanced quantum machine learning (QML) architectures to significantly improve prediction accuracy and computational efficiency in climate modeling.
 
+[!image](https://github.com/adibgpt/QESM/blob/5732ba0b73aac412beb11cb217bd2a2f78613559/Images/Picture8.png)
+
 ## Overview
 
 Current climate models often face limitations in resolution and computational constraints, reducing the precision of weather forecasts and long-term predictions. QESM addresses these issues by replacing conventional ML models with quantum-enhanced counterparts, including:
