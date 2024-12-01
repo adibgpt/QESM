@@ -13,6 +13,9 @@ Current climate models often face limitations in resolution and computational co
 ![image](https://github.com/adibgpt/QESM/blob/222c24003def74d365bc7897a4e9f69189b5ea31/Images/Picture1%20(1).png)
 
 - **Quantum Multilayer Perceptrons (QMLP)**
+
+![image](https://github.com/adibgpt/QESM/blob/f1354c0903a7594daad1a4187c6416b263a5112a/Images/Picture105.png)
+
 - **Quantum Encoder-Decoder (QED)**
 
 These quantum models are further optimized using a **meta-ensemble approach**, combining their strengths to achieve state-of-the-art performance.
