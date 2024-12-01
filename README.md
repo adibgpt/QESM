@@ -62,6 +62,10 @@ The QESM framework demonstrates substantial improvements in prediction accuracy 
 3. **Comprehensive Analysis**:
    - Detailed evaluation of quantum methods under various scenarios, including noise levels and regularization.
 
+![image](https://github.com/adibgpt/QESM/blob/a928935630bb061761b67885d6f2e978eb0d849c/Images/Picture1006.png)
+![image](https://github.com/adibgpt/QESM/blob/a928935630bb061761b67885d6f2e978eb0d849c/Images/Picture1007.png)
+![image](https://github.com/adibgpt/QESM/blob/a928935630bb061761b67885d6f2e978eb0d849c/Images/Picture1008.png)
+
 ## How to Use
 
 ### Prerequisites
