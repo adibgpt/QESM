@@ -9,6 +9,9 @@ This repository contains the research and implementation details of **QESM** (Qu
 Current climate models often face limitations in resolution and computational constraints, reducing the precision of weather forecasts and long-term predictions. QESM addresses these issues by replacing conventional ML models with quantum-enhanced counterparts, including:
 
 - **Quantum Convolutional Neural Networks (QCNN)**
+
+![image](https://github.com/adibgpt/QESM/blob/222c24003def74d365bc7897a4e9f69189b5ea31/Images/Picture1%20(1).png)
+
 - **Quantum Multilayer Perceptrons (QMLP)**
 - **Quantum Encoder-Decoder (QED)**
 
