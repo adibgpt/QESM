@@ -48,6 +48,9 @@ The QESM framework demonstrates substantial improvements in prediction accuracy 
 | Latent Heat Flux (W/m²)| 3.36          | 0.36        | -            | -          |
 | Surface Temperature (K)| 10.83         | 3.87        | 0.927        | 0.991      |
 
+![image](https://github.com/adibgpt/QESM/blob/4736599aef56ed297717d5ec1234c0769a52b26a/Images/Picture21.png)
+![image](https://github.com/adibgpt/QESM/blob/4736599aef56ed297717d5ec1234c0769a52b26a/Images/Picture31.png)
+
 ## Contributions
 
 1. **Quantum Integration in Climate Models**:
