@@ -17,7 +17,7 @@ Current climate models often face limitations in resolution and computational co
 ![image](https://github.com/adibgpt/QESM/blob/f1354c0903a7594daad1a4187c6416b263a5112a/Images/Picture105.png)
 
 - **Quantum Encoder-Decoder (QED)**
-
+![image](
 These quantum models are further optimized using a **meta-ensemble approach**, combining their strengths to achieve state-of-the-art performance.
 
 ## Key Features
